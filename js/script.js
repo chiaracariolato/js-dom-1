@@ -49,6 +49,8 @@ const img = document.getElementById('pic');
 // }
 // );
 
+
+// Versione ottimizzata
 const isOn = true;
 
 button.addEventListener('click', accendi);
